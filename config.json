@@ -1,9 +1,10 @@
 {
   "name": "Country Roads (Test)",
-  "description": "Sample image project without annotations",
+  "description": "594 unlabeled images",
   "type": "project",
-  "categories": [
-    "demo"
+  "categories": 
+    "semantic segmentation",
+    "images"
   ],
   "icon": "https://i.imgur.com/z5oEvsD.png",
   "icon_cover": true
