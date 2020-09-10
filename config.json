@@ -1,0 +1,10 @@
+{
+  "name": "Country Roads (Test)",
+  "description": "Sample image project without annotations",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/z5oEvsD.png",
+  "icon_cover": true
+}
