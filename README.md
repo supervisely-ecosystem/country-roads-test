@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/30dY0G5.jpg" /> 
+<img src="" /> 
 
 # Country Roads Test  
 
