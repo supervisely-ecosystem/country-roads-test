@@ -17,28 +17,29 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![](https://img.shields.io/docker/v/supervisely-ecosystem/roads-test)](https://github.com/supervisely-ecosystem/roads-test)
+[![](https://img.shields.io/docker/v/supervisely-ecosystem/country-roads-test)](https://github.com/supervisely-ecosystem/country-roads-test)
 </div>
 
 
 
 ## Overview 
 
- `roads_test` is an example project with roads, with 156 images in it. 
+ `Country roads test` is an example project with road scenery, with 594 images in it. 
 
 ![](https://i.imgur.com/1bd7qXC.jpg)
 
 ## Description 
 
-`roads_test` is a small demo dataset, perfect for flash testing of segmentation models. It can be used to quickly test neural networks on a small amount of images.
+`Country roads test` is a demo dataset, perfect for testing of segmentation models. 
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/8WEI4I55nhCKj1I/download) (194,2 MB).
+Download sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (59,2 MB).
+Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7o5SMJEZm/download) (626,2 MB).
 
 ## Statistics
 
-Project contains 1 dataset with 1566 images in it, without annotations. 
+Project contains 3 datasets with 594 images across them, without annotations. 
 
 ## Examples
 
