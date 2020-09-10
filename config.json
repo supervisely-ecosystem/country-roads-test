@@ -2,7 +2,7 @@
   "name": "Country Roads (Test)",
   "description": "594 unlabeled images",
   "type": "project",
-  "categories": 
+  "categories": [
     "semantic segmentation",
     "images"
   ],
