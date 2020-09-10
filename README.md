@@ -44,7 +44,7 @@ Project contains 3 datasets with 594 images across them, without annotations.
 
 ## Examples
 
-![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00001658.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000944.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000264.png)
+![](https://github.com/supervisely-ecosystem/country-roads-test/project/ds1/img/00241_B5Mg1r2GKj.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000944.png) ![](https://github.com/supervisely-ecosystem/roads-test/raw/master/project/ds1/img/00000264.png)
 
 ## How To Import
 
