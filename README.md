@@ -33,9 +33,9 @@
 
 ## Download
 
-Download sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (59,2 MB).
+Sample version: [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (59,2 MB).
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7o5SMJEZm/download) (626,2 MB).
+Full version: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7o5SMJEZm/download) (626,2 MB).
 
 ## Statistics
 
