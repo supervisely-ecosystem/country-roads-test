@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="" /> 
+<img src="https://i.imgur.com/MweHT3B.png" width="100"/> 
 
 # Country Roads Test  
 
@@ -17,14 +17,13 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
-[![](https://img.shields.io/docker/v/supervisely-ecosystem/country-roads-test)](https://github.com/supervisely-ecosystem/country-roads-test)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/country-roads-test)
 </div>
-
 
 
 ## Overview 
 
- `Country roads test` is an example project with road scenery, with 594 images in it. 
+ `Country roads test` is a test data with 594 unlabeled images. Labeled country roads images can be found <a href="https://github.com/supervisely-ecosystem/country-roads">here</a>. Read more in our <a href="https://medium.com/hackernoon/traveling-the-ml-next-hop-step-by-step-guide-to-recognize-drivable-area-f48c1e1bb76d">blog post</a>. 
 
 ![](https://i.imgur.com/KwEccCd.jpg)
 
@@ -40,7 +39,7 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7
 
 ## Statistics
 
-Project contains 3 datasets with 594 images across them, without annotations. 
+Project contains 3 datasets with 594 images without annotations. 
 
 ## Examples
 
