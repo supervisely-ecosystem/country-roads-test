@@ -26,7 +26,7 @@
 
  `Country roads test` is an example project with road scenery, with 594 images in it. 
 
-![](https://i.imgur.com/1bd7qXC.jpg)
+![](https://i.imgur.com/KwEccCd.jpg)
 
 ## Description 
 
@@ -35,6 +35,7 @@
 ## Download
 
 Download sample: [tar archive](https://cloud.enterprise.deepsystems.io/s/zRyFbfsalohAo5N/download) (59,2 MB).
+
 Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7o5SMJEZm/download) (626,2 MB).
 
 ## Statistics
