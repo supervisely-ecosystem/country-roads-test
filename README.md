@@ -18,8 +18,11 @@
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/country-roads-test)
-</div>
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads-test&counter=views&label=views)](https://supervise.ly)
+[![used by teams](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads-test&counter=downloads&label=used%20by%20teams)](https://supervise.ly)
+[![runs](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/country-roads-test&counter=runs&label=downloads&123)](https://supervise.ly)
 
+</div>
 
 ## Overview 
 
@@ -48,3 +51,10 @@ Project contains 3 datasets with 594 images without annotations.
 ## How To Import
 
 ...
+
+## Acknowledgement
+
+Images were provided by one of our customers [NPO Region](https://nporegion.ru/). 
+
+<img src="https://i.imgur.com/IQR1vGo.png" width="400" />
+
