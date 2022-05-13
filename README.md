@@ -47,13 +47,6 @@ Project contains 3 datasets with 594 images without annotations.
 
 ![](https://raw.githubusercontent.com/supervisely-ecosystem/country-roads-test/master/project/ds2/img/00383.png) ![](https://raw.githubusercontent.com/supervisely-ecosystem/country-roads-test/master/project/ds2/img/00040_HSRUNAfwiQ.png) ![](https://raw.githubusercontent.com/supervisely-ecosystem/country-roads-test/master/project/ds3/img/5900_1JfscOtVw7.png)
 
-## How To Import
-
-...
-
 ## Acknowledgement
 
-Images were provided by one of our customers [NPO Region](https://nporegion.ru/). 
-
-<img src="https://i.imgur.com/IQR1vGo.png" width="400" />
-
+Images were provided by one of our customers
