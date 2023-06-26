@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/ecosystem.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/MweHT3B.png" width="100"/> 
+<img src="media/logo.png" width="100"/> 
 
 # Country Roads Test  
 
@@ -27,7 +27,7 @@
 
  `Country roads test` is a test data with 594 unlabeled images. Labeled country roads images can be found <a href="https://github.com/supervisely-ecosystem/country-roads">here</a>. Read more in our <a href="https://medium.com/hackernoon/traveling-the-ml-next-hop-step-by-step-guide-to-recognize-drivable-area-f48c1e1bb76d">blog post</a>. 
 
-![](https://i.imgur.com/KwEccCd.jpg)
+![](media/overview.jpeg)
 
 ## Description 
 
