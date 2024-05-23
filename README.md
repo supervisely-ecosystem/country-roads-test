@@ -35,7 +35,7 @@
 
 ## Download
 
-Sample version: [tar archive](https://cloud.enterprise.deepsystems.io/s/ULpaTxsxOQt3gv7/download) (59,2 MB).
+Sample version: [tar archive](https://github.com/supervisely-ecosystem/country-roads-test/releases/download/v0.9.1/project.zip) (59,2 MB).
 
 Full version: [tar archive](https://cloud.enterprise.deepsystems.io/s/fADwyW7o5SMJEZm/download) (626,2 MB).
 
