@@ -16,10 +16,10 @@
   <a href="#how-to-import">How to Import</a> 
 </p>
 
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/country-roads-test)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/country-roads-test.png)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/img/badges/downloads/supervisely-ecosystem/country-roads-test.png)](https://supervise.ly)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/country-roads-test.png)](https://supervisely.com)
+[![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/country-roads-test.png)](https://supervisely.com)
 
 </div>
 
